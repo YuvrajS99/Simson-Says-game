@@ -1,4 +1,4 @@
-# Simon Says Game
+# Simon Say Game
 
 Check out my live Simon Says game on Netlify :   [Live Demo](https://simsongameyuva.netlify.app/)
 
